@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">Playing with viewmodels</string>
+    <string name="add_to_score">Add To Score</string>
+    <string name="sub_from_socre">Sub from Socre</string>
+    <string name="score">Score: %d</string>
+</resources>
